@@ -27,6 +27,7 @@ document.querySelector('#app').innerHTML = `
 
     <section id="about">
       <h2>About Me</h2>
+      <h3>I am Learning and making projects of CI/CD</h3>
       <p>
         I am an aspiring Cloud and DevOps Engineer interested
         in cloud infrastructure, automation and modern deployment
