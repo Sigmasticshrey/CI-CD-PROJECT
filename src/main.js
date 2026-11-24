@@ -26,12 +26,12 @@ document.querySelector('#app').innerHTML = `
     </section>
 
     <section id="about">
-<<<<<<< HEAD
+
       <h2>ABOUT MYSELF LISTING </h2>
-=======
       <h2>About Me</h2>
       <h3>I am Learning and making projects of CI/CD</h3>
->>>>>>> 139cf1b03589909d59f1e0b6865016ae9e0e8310
+
+
       <p>
         I am an aspiring Cloud and DevOps Engineer interested
         in cloud infrastructure, automation and modern deployment
