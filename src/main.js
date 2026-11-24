@@ -26,11 +26,11 @@ document.querySelector('#app').innerHTML = `
     </section>
 
     <section id="about">
-      <h2>About Me</h2>
+      <h2>ABOUT MYSELF LISTING </h2>
       <p>
         I am an aspiring Cloud and DevOps Engineer interested
         in cloud infrastructure, automation and modern deployment
-        technologies.
+        technologies and want to learn further
       </p>
     </section>
 
