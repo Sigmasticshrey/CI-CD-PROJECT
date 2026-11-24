@@ -35,7 +35,7 @@ document.querySelector('#app').innerHTML = `
       <p>
         I am an aspiring Cloud and DevOps Engineer interested
         in cloud infrastructure, automation and modern deployment
-        technologies and want to learn further
+        technologies.
       </p>
     </section>
 
